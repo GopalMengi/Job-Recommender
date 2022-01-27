@@ -68,7 +68,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com), [
 
 ```bash
 # Clone this project
-$ git clone https://github.com/muskaan712/JobRecommender
+$ git clone https://github.com/GopalMengi/Job-Recommender
 
 # Run the project
 $ streamlit run main.py 
