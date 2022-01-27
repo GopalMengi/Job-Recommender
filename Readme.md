@@ -81,7 +81,7 @@ For major changes, please open an issue first to discuss what you would like to 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/muskaan712" target="_blank">Muskaan Chopra</a>
+Made with :heart: by <a href="https://github.com/gopalmengi" target="_blank">Gopal Mengi</a>
 
 &#xa0;
 
